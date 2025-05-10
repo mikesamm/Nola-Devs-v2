@@ -1,5 +1,5 @@
 import { connect } from 'mongoose';
-import { MONGODB_URI } from '$env/dynamic/private';
+import { MONGODB_URI } from '$env/static/private';
 
 // setting up the connection to the DB
 const connectDB = async () => {
