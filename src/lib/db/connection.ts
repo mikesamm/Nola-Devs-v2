@@ -1,9 +1,9 @@
 import { connect } from 'mongoose';
-import { MONGODB_URI, DB_NAME } from '$env/static/private';
+import { MONGODB_URI } from '$env/static/private';
 
 // setting up the connection to the DB
 const connectDB = async () => {
-	const dbUri = `${MONGODB_URI}${DB_NAME}`;
+	const dbUri = `${MONGODB_URI}`;
 
 	try {
 		await connect(dbUri);
