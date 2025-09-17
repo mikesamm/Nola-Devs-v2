@@ -1,13 +1,12 @@
 [
 	{
-		"group": "Agile Nola",
-		"slug": "Agile-Nola",
+		"group": "Nola Tech Talks",
+		"slug": "Nola-Tech-Talks",
 		"calID": "4a4d1054b6f65221f9afffe5e9d1e42b8dba4f83bd241d48faca0cab50ee478d@group.calendar.google.com",
 		"links": {
-			"eventbrite": "https://www.eventbrite.com/o/agile-nola-59051586693",
-			"meetup": "https://www.meetup.com/agilenola/"
+			"linkedin": "https://www.linkedin.com/groups/4310953/"
 		},
-		"about": "Agile Nola is a group for connecting the New Orleans software development community, marrying modern Agile methodologies with trends of the tech ecosystem at large. Many esteemed, national speakers gather monthly to provide unique insights into many different avenues in the software world. All are welcome and encouraged to come to the events with beer and food provided! Come network, learn, and laugh with the Agile User Group.",
+		"about": "We're a group of NOLA techies who meet up monthly over food and drinks. We discuss tech topics, share knowledge and skills, network, and host guest speakers. The food and drinks are always sponsored, and admission is free. Every month we have a different topic for the tech industry. Please join us to learn, network, and most importantly, help us to continue to grow the NOLA tech community! (Nola Tech Talks was formerly known as Agile NOLA)",
 		"icon": "💼"
 	},
 	{
@@ -92,13 +91,13 @@
 		"icon": "🔒"
 	},
 	{
-		"group": "Womxn in Tech",
-		"slug": "Womxn-in-Tech",
+		"group": "NOLA Tech Connect",
+		"slug": "NOLA-Tech-Connect",
 		"calID": "b85e18cbc5a2d1b3948c0fe9e6f27de409da19ea571bdea00d3e2456fc067f2e@group.calendar.google.com",
 		"links": {
 			"linkedin": "https://www.linkedin.com/groups/12554672/"
 		},
-		"about": "Connecting those who identify as women within the Greater New Orleans tech ecosystem. Mostly social (for now)!",
+		"about": "New Orleans Tech Connect (previously NOLA WomXn in Tech) is an inspiring community of talented womxn. We come together monthly to foster connections, engage in tech discussions, and much more. Elevate your network and knowledge—be part of something amazing! 💻🌟",
 		"icon": "👩‍💻"
 	},
 	{
